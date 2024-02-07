@@ -1,0 +1,17 @@
+html{
+    height: 120%;
+}
+
+body{
+    background-image: linear-gradient(to bottom right,blue,red);
+    background-repeat: no-repeat;
+}
+
+button{
+    font-size: xx-large;
+    font-family: system-ui bold;
+    color: black;
+    border: black 3px solid;
+    border-radius: 20px;
+    background-color: white;
+}
